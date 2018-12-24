@@ -2,7 +2,9 @@ package com.uuwatch.group.entity;
 
 public class User
 {
+    //用户id
     private int id;
+    //用户名
     private String username;
     private String password;
 
